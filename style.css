@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+#imgb{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+#main2{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:0;
+}
+#heading{
+    height: 15%;
+    width: 100%;
+    padding: 3.8vw;
+    font-size: 3vw;
+    word-spacing: 1.5vw;
+    text-align: center;
+}
+#story{
+    height: 65%;
+    width: 70%;
+    margin-top: 10vw;
+    margin-left: 15vw;
+    border-radius: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+#story h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.2vw;
+    font-weight: 900;
+}
+#part1{
+    height: 25%;
+    width: 100%;
+    text-align: center;
+}
+#part2{
+    height: 45%;
+    width: 100%;
+    text-align: center;
+    padding-top: 4.8vw;
+}
+#part3{
+    height: 25%;
+    width: 100%;
+    text-align: center;
+    padding-top: 3vw;
+}
